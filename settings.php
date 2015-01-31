@@ -24,7 +24,7 @@ class HeadlinePlugin{
         
         add_action( 'init', array(&$this, 'headline_plugin_register_shortcodes'));
         add_action('wp_footer', array(&$this, 'headline_plugin_print_fonts'));
-        add_action('init', array(&$this, 'add_headline_button_icon'));
+        //add_action('init', array(&$this, 'add_headline_button_icon'));
        
     }
     
