@@ -14,7 +14,7 @@ Easily create headlines and place them anywhere on your site.
 
 Easily create headlines and place them anywhere on your site.
 
-* [Headline plugin quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/headline-plugin/)
+* [Headline plugin quick start guide at thinklandingpages.com](http://www.thinklandingpages.com/headline-plugin/)
 
 ###What you get when you use the Wordpress Headline plugin
 
@@ -26,7 +26,7 @@ Easily create headlines and place them anywhere on your site.
 
 ###Quick Start Guide
 
-* [Headline plugin quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/headline-plugin/)
+* [Headline plugin quick start guide at thinklandingpages.com](http://www.thinklandingpages.com/headline-plugin/)
 
 == Installation ==
 
@@ -45,7 +45,7 @@ No.  The plugin does the programming and design.
 
 == Screenshots ==
 
-[See screenshots at thinklandingpages.com] (http://www.thinklandingpages.com/headline-plugin/)
+[See screenshots at thinklandingpages.com](http://www.thinklandingpages.com/headline-plugin/)
 
 
 == Changelog ==
