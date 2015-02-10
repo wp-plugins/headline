@@ -14,7 +14,7 @@ Easily create headlines and place them anywhere on your site.
 
 Easily create headlines and place them anywhere on your site.
 
-
+* [Headline plugin quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/headline-plugin/)
 
 ###What you get when you use the Wordpress Headline plugin
 
