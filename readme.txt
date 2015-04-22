@@ -14,19 +14,19 @@ Easily create headlines and place them anywhere on your site.
 
 Easily create headlines and place them anywhere on your site.
 
-
+* [Headline plugin quick start guide at thinklandingpages.com](http://www.thinklandingpages.com/headline-plugin/)
 
 ###What you get when you use the Wordpress Headline plugin
 
 *  Place a headline anywhere
-*  Different of fonts to choose from
+*  Different fonts to choose from
 *  Pick your own color
 *  Custom sizing
 *  Place a headline with a simple shortcode, [headline]
 
 ###Quick Start Guide
 
-* [Headline plugin quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/headline-plugin/)
+* [Headline plugin quick start guide at thinklandingpages.com](http://www.thinklandingpages.com/headline-plugin/)
 
 == Installation ==
 
@@ -42,10 +42,14 @@ Easily create headlines and place them anywhere on your site.
 
 No.  The plugin does the programming and design.
 
+= What fonts can I use in my headline? =
+
+Use any Google font in your headline.  Just set the font attribute of the shortcode to the Google font you want to use.
+
 
 == Screenshots ==
 
-[See screenshots at thinklandingpages.com] (http://www.thinklandingpages.com/headline-plugin/)
+[See screenshots at thinklandingpages.com](http://www.thinklandingpages.com/headline-plugin/)
 
 
 == Changelog ==
